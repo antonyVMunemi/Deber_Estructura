@@ -1,6 +1,7 @@
 #Nombre: Robert Antony Vera Medina
 #Asignatura: Estructura de datos 
-
+#Carrera: Ingenieria en software A1
+#nivel: tercer semestre
 
 from datetime import date
 class Operaciones:
@@ -477,4 +478,3 @@ class Operaciones:
 
 
 var = Operaciones()
-var.Inicio()
